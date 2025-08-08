@@ -53,9 +53,9 @@ To run the web application for predictions:
 ## Model Performance
 The Random Forest Classifier achieved the following performance metrics on the test set:
 - **Accuracy**: 98.5%
-- **Precision**: 97.8%
-- **Recall**: 98.0%
-- **F1-Score**: 99.0%
+- **Precision**: 97.81%
+- **Recall**: 97.81%
+- **F1-Score**: 97.81%
 
 ## Contributing
 Contributions are welcome! Please feel free to fork the repository, create a new branch, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
